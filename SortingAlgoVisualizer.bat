@@ -1,0 +1,3 @@
+@echo off
+echo Starting Sorting Algorithm Visualizer...
+java -jar SortingVisualizer.jar
